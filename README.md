@@ -23,10 +23,3 @@
         Then you will pull the file on GitHub Desktop and run on IntelliJ.
         Install Gradle17 SDK.
         Select Gradle > Tasks > application > run (Found in the top right) to run
-
-## Warning Documentation:
-    Warnings within the InteractiveFeatures class:
-    - Raw use of parameterized class 'ChoiceBox'
-    Warnings within the UserCreatingFurniture class:
-    - Raw use of parameterized class 'ChoiceBox'
-    - Unchecked call to 'addAll(E...)' as a member of raw type 'javafx.collections.ObservableList'
